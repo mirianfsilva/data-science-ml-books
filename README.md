@@ -9,4 +9,8 @@ Data Science Books that people should read. Currently my personal reading list.
   -  Author(s): Wes McKinney
   - Publisher(s): O'Reilly Media, Inc.
   - Manipulating, processing, cleaning, and crunching data in Python. It is also a practical, modern introduction to scientific computing in Python, tailored for data-intensive applications.
-- [ ] 
+- [ ] [Introduction to Machine Learning with Python]()
+  - Author(s): Andreas C. Müller, Sarah Guido
+  - Publisher(s): O'Reilly Media, Inc.
+  - The steps necessary to create a successful machine-learning application with Python and the scikit-learn library. Recommend for people that are completly new to Data Science and Machine Learning. Fundamental concepts. Advanced methods for model evaluation and parameter tuning. Data process and concept of pipelines and workflows. 
+
